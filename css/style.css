@@ -1,0 +1,27 @@
+
+
+
+/*selector {
+	propiedad: valor;
+}*/
+
+body {
+
+	background-image: url(portada.jpeg); 
+	background-size: cover;
+
+}
+
+h1 {
+	color : red;
+	text-align: center;
+	border: 2px solid green;
+}
+
+li {
+	color: green;
+}
+
+p {
+	color: blue;
+}
